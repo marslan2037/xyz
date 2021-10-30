@@ -1,0 +1,19 @@
+/* Responsive Style For All Devices */
+
+@media only screen and (max-width: 500px)
+{
+	#wrapper
+	{
+		width: 768px;
+	}
+	.banner
+	{
+		float: none;
+		width: 50%;
+	}	
+	#sidebar
+	{
+		float: none;
+		margin-top: 130px;
+	}
+}
